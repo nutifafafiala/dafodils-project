@@ -1,0 +1,136 @@
+.body {
+	background-image: url("../images/bkg_pattern-1500x359.png");
+	background: #ebd9d9url(//www.daffodilsgp.com/online/wp-content/uploads/2015/08/bkg_pattern-1500x359.png) top center repeat scroll;
+}
+
+#daflogo {
+	height: 50px;
+	width: 100px;
+}
+
+#welcome {
+	background-color: #4e89c9;
+}
+
+.foot {
+	list-style-type: none;
+	background-color: ;	
+}
+
+.next {
+	list-style: none;
+}
+
+.next1 {
+	list-style: none;
+}
+
+.next2 {
+	list-style: none;
+}
+
+#navbar {
+	margin-left: 15px;
+	margin-right: 16px;
+	background-color: #4e89c9;
+}
+
+#footercolor {
+	background-color: #635655;
+	margin-left: 0px;
+	margin-right: 0px;	
+}
+
+.icons {
+	list-style: none;
+	display: flex;
+	position: absolute; 
+}
+
+.icons1 li {
+	padding-left: 2px;
+	padding-right: 4px;
+	display: inline-block;
+	margin-top: 8px;
+} 
+
+.icons li {
+	padding-left: 4px;
+	padding-right: 10px;
+}
+
+#color {
+	background-color: #524a4a;
+	color: white;
+	margin-left: 0px;
+	margin-right: 0px;	
+}
+
+#colorwrap li {
+	color: white;
+}
+
+.info {
+	background-color: #4e89c9;
+	margin-top: 0px;
+	border: none;
+}
+
+#bona {
+	margin-left: 15px;
+	margin-right: 10px;
+}
+
+#rules {
+	background-color: white;
+	margin-right: 0px;
+	
+}
+
+form {
+	color: #DFEFF5;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+
+input {
+	font-size: inherit;
+}
+
+input[type="text"] {
+	display: block;
+	margin-bottom: 30px;
+	background-color: #CCE3EB;
+	border: 1px solid #DE1F12;
+}
+
+input[type="submit"] {
+	width: 200px;
+	height: 45px;
+	background: #8A3E51;
+	color: white;
+	border: none;
+}
+
+input[placeholder="Message"] {
+	width: 100%;
+	height: 200px;
+}
+
+input[type="email"] {
+	background-color: #CCE3EB;
+}
+ 
+#con {
+	 background-color: white;
+}
+
+.slider {
+	overflow: hidden;
+	width: 600px;
+	height: 250px;
+}
+
+.slider img {
+	display: none;
+}

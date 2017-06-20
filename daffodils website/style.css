@@ -1,0 +1,50 @@
+.header {
+	border: 2px;
+	border-style: solid;
+	height: 250px;
+}
+
+.nav li {
+	list-style: none;
+    float: right;
+    display: inline-block;
+    padding: 40px;
+
+}
+
+.anything {
+	border: 1px;
+	border-style: solid;
+	height: 250px;
+	padding-top: 50px;
+
+}
+
+.toddler {
+	border: 2px;
+	border-style: solid;
+	height: 250px;
+	padding-top: 50px;
+}
+
+.products {
+	border: 1px;
+	border-style: solid;
+	height: 250px;
+	padding-top: 50px;
+}
+
+.products2 {
+	border: 2px;
+	border-style: solid;
+	height: 250px;
+	padding-top: 50px;
+}
+
+.footer {
+	border: 1px;
+	border-style: solid;
+	height: 250px;
+	padding-top: 50px;
+}
+
