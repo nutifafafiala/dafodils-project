@@ -33,6 +33,11 @@
 	margin-left: 15px;
 	margin-right: 16px;
 	background-color: #4e89c9;
+	color: white;
+}
+
+.dropdown_menu ul {
+	color: white;
 }
 
 #footercolor {
@@ -133,4 +138,13 @@ input[type="email"] {
 
 .slider img {
 	display: none;
+}
+
+#container {
+	background-repeat: no-repeat;
+	background-image: url(http://www.daffodilsgp.com/online/wp-content/uploads/2015/08/ChallengeCup-1500x959.jpg);
+	background-attachment: scroll; 
+	background-position: top right; 
+	width:800px; 
+	height: 250px;
 }
